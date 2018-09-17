@@ -14,6 +14,10 @@
           <li class="nav-item ">
               <a class="nav-link" href="/posts">{{config('app.name')}}</a>
             </li>
+            
          
         </ul>
+        <ul class="nav navbar-nav ml-auto">
+          <li><a href="/posts/create"> Add Post</a></li>
+      </ul>
       </nav>
